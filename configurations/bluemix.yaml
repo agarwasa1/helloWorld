@@ -1,0 +1,5 @@
+parameters:
+   name: single_vm_server
+   image: rhel-7.1
+   flavor: c2.m8.s40
+   KeyName: saurabh-bluemix2
